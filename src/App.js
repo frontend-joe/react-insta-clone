@@ -1,6 +1,6 @@
 import Instagram from "instagram/Wrapper";
 
-function App() {
+const App = () {
   return <Instagram />;
 }
 
